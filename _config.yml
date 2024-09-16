@@ -3,6 +3,7 @@ description: A Data Science Student
 author: Hussein TARHINI
 avatar: logo.png
 email: hussein.tarhini.etu@lille-univ.fr
+website: https://github.com/husseintarhini168/Bussiness_Card/releases/download/v1.14/card.pdf
 
 plugins:
   - jekyll-seo-tag
